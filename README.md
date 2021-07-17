@@ -10,7 +10,9 @@
 
 ## How to use this tool?
 
-&emsp;&emsp;There is a better solution.Click here to use the online version.
+&emsp;&emsp;There is a better solution.Click [here](https://userx71.neocities.org/) to use the online version.
+
+&emsp;&emsp;**Notice:** You'd better visit this website through pc. 
 
 &emsp;&emsp;If you had installed **python3**,you can download the python script.Then run `main.py`.
 
