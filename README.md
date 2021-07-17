@@ -10,7 +10,7 @@
 
 ## How to use this tool?
 
-&emsp;&emsp;There is a better solution,click here to use the online version.
+&emsp;&emsp;There is a better solution.Click here to use the online version.
 
 &emsp;&emsp;If you had installed **python3**,you can download the python script.Then run `main.py`.
 
