@@ -49,7 +49,7 @@ function loadYears(){
 	}
 }
 
-let days = {
+const days = {
 	1:31,
 	3:31,
 	4:30,
